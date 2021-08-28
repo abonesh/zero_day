@@ -1,0 +1,9 @@
+[user]
+		name = abonesh
+		email = mulunelroi@gmail.com
+[core]
+	editor = emacs
+[init]
+	defaultBranch = main
+[alias]
+	pushd = push -u origin main
